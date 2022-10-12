@@ -1,0 +1,3 @@
+ct_token: YOUR_TOKEN
+price_cents_threshold: 100
+colors: [M, W, U, B, R, G, C, L]
